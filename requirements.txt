@@ -9,5 +9,3 @@ scipy
 scikit-learn
 matplotlib
 pandas
-json
-util

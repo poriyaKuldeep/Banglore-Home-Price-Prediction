@@ -9,6 +9,5 @@ scipy
 scikit-learn
 matplotlib
 pandas
-pickle
 json
 util
